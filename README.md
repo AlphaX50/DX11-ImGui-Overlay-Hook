@@ -1,7 +1,7 @@
 # DX11 ImGui Overlay Hook
 
 This project is a DirectX 11 DLL hook using ImGui for rendering custom in-game overlays.  
-It is designed to inject a fully interactive menu into DX11 games like Call of Duty: Cold War.
+It is designed to inject a fully interactive menu into DX11 games.
 
 ---
 
